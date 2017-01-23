@@ -5,15 +5,15 @@ layout: paper
 
 ## Abstract
 
-All kinds of programmers acknowledge the difficulty of naming things, but relatively few use explicit naming guidelines.
-Various authors have published different kinds of identifier naming guidelines, but these guidelines do little to make naming easier, in practice.
-Meanwhile, professional programmers follow diverse conventions and disagree about key aspects of naming, such as acceptable name lengths.
+Programmers seem to acknowledge the difficulty of naming things, which has led to the fact that a number of authors of programming books have devoted chapters to naming, with actionable guidelines in them. However, we observe some issues with these guideline. 
+Firstly, they do not always agree with each other about key aspects of naming, such as acceptable name lengths.
+Secondly, professional programmers do not always use them, or use them inconsistently.
 
+--- I feel these following two sentences are not really covered in the body of the paper
 Although few teams write their own coding standards, let along naming guidelines, many teams use code review and pair programming to maintain code quality.
 These teams can use third-party naming guidelines to inform these reviews, and improve their coding style.
 
-This paper examines various sources of naming guidelines, in the context of the author’s twenty years’ experience as a professional programmer.
-This paper then presents a consolidated set of naming guidelines that professional programmers can use in their work.
+This paper examines various sources of naming guidelines, and describes commonalities and differences. We also decribe previous work on naming, and reflect on the guidelines, in the context of the first authors’s experience as a professional programmer. That together leads to a new, consolidated set of naming guidelines that professional programmers can use in their work.
 
 
 ## Purpose of naming guidelines
